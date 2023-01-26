@@ -16,5 +16,6 @@ blblblbllblbb
 
 ## How to contribute
 
+Please for this repo and then issue Pull Request for review.
 ##Copyright
 2023 Git Copyright
