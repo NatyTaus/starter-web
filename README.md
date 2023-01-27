@@ -1,7 +1,8 @@
 # Starter Web Project Repo
 
 This is a simple website project 
-Adding a line for rebasing example.
+Adding a line for rebasing example, then
+more changes from myfeature branch too.
 ## Introduction
 
 this is example is to show different parts of the Git repo and various 
