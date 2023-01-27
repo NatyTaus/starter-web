@@ -1,7 +1,7 @@
 # Starter Web Project Repo
 
 This is a simple website project 
-
+Adding a line for rebasing example.
 ## Introduction
 
 this is example is to show different parts of the Git repo and various 
