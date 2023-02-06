@@ -3,6 +3,10 @@
 This is a simple website project 
 Adding a line for rebasing example, then
 more changes from myfeature branch too.
+
+Updating for emergancy fix after stashing.
+
+
 ## Introduction
 
 this is example is to show different parts of the Git repo and various 
