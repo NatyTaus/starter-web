@@ -19,4 +19,4 @@ blblblbllblbb
 
 Please for this repo and then issue Pull Request for review.
 ##Copyright
-2023 Git Copyright
+2023 Git Copyright. All right reserved.
